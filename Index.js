@@ -11,8 +11,8 @@ const client = new Client({
 const TEMPO_ALERTA = 1000 * 60 * 60 * 24 * 3; // 3 dias
 const TEMPO_BAN = 1000 * 60 * 60 * 24 * 4;    // 4 dias
 
-const CANAL_ALERTA = 'ID_DO_CANAL';
-const CARGO_MOD = 'ID_DO_CARGO';
+const CANAL_ALERTA = '1488628203290366086';
+const CARGO_MOD = '1489012663261466806';
 
 let ultimaAtividade = {};
 let avisados = new Set();
